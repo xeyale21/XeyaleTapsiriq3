@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.div1{
+	height: 620px;
+	width: 550px;
+	margin: auto;
+	border:15px solid #bdc3c7 ;
+}
+.h1{
+	margin-left: 15px;
+}
+h5{
+    
+	color:#3498db;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.div2{
+	border:5px solid #bdc3c7;
+	border-bottom: none;
+	border-right: none;
+	border-top: none;
+	margin-left: 15px;
+	color: grey;
+}
+.div3{
+	color: grey;
+	margin-left: 15px;
+}
